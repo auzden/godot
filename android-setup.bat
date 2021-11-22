@@ -1,0 +1,1 @@
+sdkmanager --sdk_root=%ANDROID_SDK_ROOT% "platform-tools" "build-tools;30.0.3" "platforms;android-30" "cmdline-tools;latest" "cmake;3.10.2.4988404"
